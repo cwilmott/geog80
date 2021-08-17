@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "San Pablo Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23371505737305,
+          37.9192844858339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Briones Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18461990356444,
+          37.92321155405647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Title": "Lafayette Reservoir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13809967041017,
+          37.88325400922058
+        ]
+      }
+    }
+  ]
+}
